@@ -1,0 +1,12 @@
+{
+  "name": "pinNote",
+  "displayName": "pinNote",
+  "expo": {
+    "name": "pinNote",
+    "slug": "pinNote",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
